@@ -1,0 +1,12 @@
+{
+  "name": "tern-mobile",
+  "version": "0.1.0",
+  "description": "omp plugin: mirrors this omp session's prompt draft, model and busy state to the tern-awui server, and applies drafts and model picks typed on the phone.",
+  "type": "module",
+  "license": "MIT",
+  "omp": {
+    "extensions": [
+      "./tern-mobile.ts"
+    ]
+  }
+}
